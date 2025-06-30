@@ -14,10 +14,8 @@
 ### 🧠 About Me
 
 - 🎓 Computer Science undergrad @ VIT (2021–2025)
-- 🧑‍💻 Currently working on <strong>Solar Flare Prediction</strong> & <strong>Financial Misinformation Detection</strong>
 - ☁️ AWS Certified Cloud Practitioner | DSA Certified by IamNeo
 - 🔍 Interests: AI, ML, Full-Stack, Cloud Computing, Automation
-- 📫 Email: gauranshjuneja.dev@gmail.com
 
 ---
 
