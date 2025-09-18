@@ -16,7 +16,7 @@
 - 🎓 Computer Science undergrad @ VIT (2021–2025)
 - ☁️ AWS Certified Cloud Practitioner | DSA Certified by IamNeo
 - 🔍 Interests: AI, ML, Full-Stack, Cloud Computing, Automation
-
+- 📃 Portfolio : https://gauranshjuneja.netlify.app/
 ---
 
 ### 🛠️ Tech Stack
